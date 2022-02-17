@@ -1,66 +1,72 @@
-
-Validation set #1 
-Validation set #1 
 Validation set #1 
 Training set accuracy : 0.9089022556390978 
-Training set F1 : 0.9089022556390978 
-Training set prevalsion : 0.9089022556390978 
+Training set F1 : 0.9087048487055457 
+Training set prevalsion : 0.9091094771054851 
 Training set recall : 0.9089022556390978 
 Test set accuracy : 0.856 
-Test set F1 : 0.856 
-Test set precision : 0.856 
+Test set F1 : 0.8554474076145531 
+Test set precision : 0.8554509833049355 
 Test set recall : 0.856 
 Validation set #2 
 Training set accuracy : 0.9111578947368421 
-Training set F1 : 0.911157894736842 
-Training set prevalsion : 0.9111578947368421 
+Training set F1 : 0.9101514491637377 
+Training set prevalsion : 0.9127259386271371 
 Training set recall : 0.9111578947368421 
 Test set accuracy : 0.860421052631579 
-Test set F1 : 0.8604210526315789 
-Test set precision : 0.860421052631579 
+Test set F1 : 0.8576674192332086 
+Test set precision : 0.859412470070324 
 Test set recall : 0.860421052631579 
 Validation set #3 
 Training set accuracy : 0.9128721804511278 
-Training set F1 : 0.9128721804511278 
-Training set prevalsion : 0.9128721804511278 
+Training set F1 : 0.9127804963580735 
+Training set prevalsion : 0.9127995334847361 
 Training set recall : 0.9128721804511278 
 Test set accuracy : 0.8431578947368421 
-Test set F1 : 0.8431578947368421 
-Test set precision : 0.8431578947368421 
+Test set F1 : 0.843241006941911 
+Test set precision : 0.843621325482686 
 Test set recall : 0.8431578947368421 
 Validation set #4 
 Training set accuracy : 0.9072481203007519 
-Training set F1 : 0.9072481203007519 
-Training set prevalsion : 0.9072481203007519 
+Training set F1 : 0.9077917709494686 
+Training set prevalsion : 0.9089180296826734 
 Training set recall : 0.9072481203007519 
 Test set accuracy : 0.8427368421052631 
-Test set F1 : 0.8427368421052631 
-Test set precision : 0.8427368421052631 
+Test set F1 : 0.8423914418136642 
+Test set precision : 0.8422446336226479 
 Test set recall : 0.8427368421052631 
 Validation set #5 
 Training set accuracy : 0.9066165413533834 
-Training set F1 : 0.9066165413533834 
-Training set prevalsion : 0.9066165413533834 
+Training set F1 : 0.9074400186164299 
+Training set prevalsion : 0.9099687408146275 
 Training set recall : 0.9066165413533834 
 Test set accuracy : 0.8336842105263158 
-Test set F1 : 0.8336842105263158 
-Test set precision : 0.8336842105263158 
+Test set F1 : 0.8359653378962778 
+Test set precision : 0.8423122800182682 
 Test set recall : 0.8336842105263158 
 Validation set #6 
 Training set accuracy : 0.9118195488721804 
-Training set F1 : 0.9118195488721804 
-Training set prevalsion : 0.9118195488721804 
+Training set F1 : 0.9117511539066889 
+Training set prevalsion : 0.9119695154545566 
 Training set recall : 0.9118195488721804 
 Test set accuracy : 0.8538947368421053 
-Test set F1 : 0.8538947368421052 
-Test set precision : 0.8538947368421053 
+Test set F1 : 0.8537753652463735 
+Test set precision : 0.8536946144259719 
 Test set recall : 0.8538947368421053 
 Validation set #7 
 Training set accuracy : 0.9074586466165413 
-Training set F1 : 0.9074586466165413 
-Training set prevalsion : 0.9074586466165413 
+Training set F1 : 0.9079389748381612 
+Training set prevalsion : 0.9093097393824255 
 Training set recall : 0.9074586466165413 
 Test set accuracy : 0.8522105263157894 
-Test set F1 : 0.8522105263157894 
-Test set precision : 0.8522105263157894 
+Test set F1 : 0.8531498042397243 
+Test set precision : 0.8555448447771609 
 Test set recall : 0.8522105263157894 
+Validation set #8 
+Training set accuracy : 0.9167218045112782 
+Training set F1 : 0.9166422145573682 
+Training set prevalsion : 0.9170514522325474 
+Training set recall : 0.9167218045112782 
+Test set accuracy : 0.8661052631578947 
+Test set F1 : 0.866437123828105 
+Test set precision : 0.8675266577777682 
+Test set recall : 0.8661052631578947 
